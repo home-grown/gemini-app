@@ -1,0 +1,7 @@
+{
+  "name": "Deploy HiveTech",
+  "description": "A premium smart workspace super-app for SME founders in Singapore. Seamlessly manage bookings, team access, and workspace analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
